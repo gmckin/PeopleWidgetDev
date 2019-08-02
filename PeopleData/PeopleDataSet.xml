@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<People>
+  <Person>
+    <Id>1</Id>
+    <FirstName>John</FirstName>
+    <LastName>Doe</LastName>
+    <DateOfBirth>01/02/1999</DateOfBirth>
+    <Age>20</Age>
+    <Gender>male</Gender>
+  </Person>
+  <Person>
+    <Id>2</Id>
+    <FirstName>Jane</FirstName>
+    <LastName>Doe</LastName>
+    <DateOfBirth>06/21/1999</DateOfBirth>
+    <Age>20</Age>
+    <Gender>female</Gender>
+  </Person>
+</People>
